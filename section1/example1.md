@@ -8,11 +8,11 @@ description: Default S-Core Client functions
 
 <summary>Player Loaded</summary>
 
-AddEventHandler("SCORE:PLAYERLOADED", function(playerId, Character)
+`AddEventHandler("SCORE:PLAYERLOADED", function(playerId, Character)`
 
-_YOUR CODE_
+_`YOUR CODE`_
 
-end)
+`end)`
 
 This trigger is used when a player is full loaded and ready !
 
