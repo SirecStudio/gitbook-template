@@ -23,6 +23,7 @@
   * [🔴 Art. 18 Contrabanda de Arme Letale](constitutia-west-frontier/cod-penal/art.-18-contrabanda-de-arme-letale.md)
   * [🔴 Art. 19 Traficul Ilegal de Țigări și Trabucuri](constitutia-west-frontier/cod-penal/art.-19-traficul-ilegal-de-tigari-si-trabucuri.md)
   * [🔴 Art. 20 Deținerea Ilegală de Băuturi Alcoolice](constitutia-west-frontier/cod-penal/art.-20-detinerea-ilegala-de-bauturi-alcoolice.md)
+  * [🔴 Art. 21 Deținerea și Traficul de Stupefiante](constitutia-west-frontier/cod-penal/art.-21-detinerea-si-traficul-de-stupefiante.md)
 * [Legea](constitutia-west-frontier/legea/README.md)
   * [🟢 Leg. 01 Apărarea Proprietății](constitutia-west-frontier/legea/leg.-01-apararea-proprietatii.md)
   * [🟢 Leg. 02 Gratierea](constitutia-west-frontier/legea/leg.-02-gratierea.md)
