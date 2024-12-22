@@ -1,8 +1,8 @@
 ---
-description: Art. 23 Profanare
+description: Art. 24 Profanare
 ---
 
-# 🔴 Art. 23 Profanare
+# 🔴 Art. 24 Profanare
 
 **`Profanarea reprezintă distrugerea, vandalizarea sau furtul din morminte, biserici, locuri de cult sau monumente publice. Această infracțiune este considerată o lipsă de respect față de comunitate și față de cei decedați, iar legea o pedepsește cu severitate.`**
 
