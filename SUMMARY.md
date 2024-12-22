@@ -2,7 +2,7 @@
 
 ## Constitutia West Frontier
 
-* [COD PENAL](README.md)
+* [Cod Penal](README.md)
   * [🔴 Art. 01 Omucidere](constitutia-west-frontier/cod-penal/art.-01-omucidere.md)
   * [🔴 Art. 02 Tentativa de omor](constitutia-west-frontier/cod-penal/art.-02-tentativa-de-omor.md)
   * [🔴 Art. 03 Furtul de vite](constitutia-west-frontier/cod-penal/art.-03-furtul-de-vite.md)
@@ -36,5 +36,6 @@
 ***
 
 * [Departamentul Guvernamental](departamentul-guvernamental.md)
+* [Guvernatorul](guvernatorul.md)
+* [Poliția](politia.md)
 * [Poliția Federală](politia-federala.md)
-* [Page 1](page-1.md)
