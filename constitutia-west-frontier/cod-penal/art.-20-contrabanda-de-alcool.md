@@ -14,7 +14,7 @@ description: Art. 20 Contrabanda de Alcool
 
 > <mark style="color:red;">**Păstrarea sau transportul unor cantități mari de alcool destinat vânzării pe ascuns.**</mark>
 
-> <mark style="color:red;">**Aducerea de whiskey sau vinuri fără să fie declarate la punctele de control.**</mark>
+> <mark style="color:red;">**Aducerea de acool fără să fie declarate la punctele de control.**</mark>
 
 > <mark style="color:red;">**Funcționarea cârciumilor secrete unde se vând băuturi fără licență.**</mark>
 
@@ -45,4 +45,3 @@ description: Art. 20 Contrabanda de Alcool
 {% hint style="info" %}
 **CONFISCAREA PRODUSELOR SAU DISTRUGEREA LOR**
 {% endhint %}
-

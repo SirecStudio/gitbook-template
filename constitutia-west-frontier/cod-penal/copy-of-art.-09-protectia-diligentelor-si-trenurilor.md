@@ -8,7 +8,7 @@ description: Art. 10 Amenințările
 
 * **EXEMPLE**
 
-> <mark style="color:red;">**Scoaterea revolverului și îndreptarea acestuia către o persoană, chiar fără a trage.**</mark>
+> <mark style="color:red;">**Scoaterea armei și îndreptarea acestuia către o persoană, chiar fără a trage.**</mark>
 
 > <mark style="color:red;">**Promisiunea de a da foc casei sau fermei altcuiva, chiar dacă nu s-a trecut la fapte.**</mark>
 

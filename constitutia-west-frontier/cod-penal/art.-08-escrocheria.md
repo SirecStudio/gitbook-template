@@ -10,7 +10,7 @@ description: Art. 08 Escrocheria
 
 > <mark style="color:red;">**Promisiunea unui teren fictiv sau revendicarea unor pământuri care aparțin altcuiva.**</mark>
 
-> <mark style="color:red;">**Ascunderea defectelor unui cal sau a altor animale pentru a obține un preț mai mare.**</mark>
+> <mark style="color:red;">**Ascunderea defectelor unui cal/caruta sau a altor animale pentru a obține un preț mai mare.**</mark>
 
 > <mark style="color:red;">**Organizarea de jocuri de cărți, zaruri sau ruletă cu rezultate trucate.**</mark>
 

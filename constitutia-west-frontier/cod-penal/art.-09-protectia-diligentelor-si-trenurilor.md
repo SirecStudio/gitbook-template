@@ -35,7 +35,7 @@ description: Art. 09 Protecția Diligențelor și Trenurilor
 ***
 
 {% hint style="info" %}
-**SENTINTA:**  300 - 350 Luni (Minute)
+**SENTINTA:**  120 - 180 Luni (Minute)
 {% endhint %}
 
 {% hint style="info" %}
@@ -45,6 +45,3 @@ description: Art. 09 Protecția Diligențelor și Trenurilor
 {% hint style="info" %}
 **CAUTIUNE:** 5000$
 {% endhint %}
-
-
-
