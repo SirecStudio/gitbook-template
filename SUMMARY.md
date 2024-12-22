@@ -6,3 +6,5 @@
 * [🔴 Art. 04 JAF ARMAT](art.-04-jaf-armat.md)
 * [🔴 Art. 05 FURT](art.-05-furt.md)
 * [🟢 Art. 06 TULBURAREA LINISTII PUBLICE](art.-06-tulburarea-linistii-publice.md)
+* [🔴 Art. 07 CONTRAFACEREA](art.-07-contrafacerea.md)
+* [🔴 Art. 08 ESCROCHERIA](art.-08-escrocheria.md)
