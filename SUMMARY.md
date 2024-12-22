@@ -32,3 +32,9 @@
 * [Legea](constitutia-west-frontier/legea/README.md)
   * [🟢 Leg. 01 Apărarea Proprietății](constitutia-west-frontier/legea/leg.-01-apararea-proprietatii.md)
   * [🟢 Leg. 02 Gratierea](constitutia-west-frontier/legea/leg.-02-gratierea.md)
+
+***
+
+* [Departamentul Guvernamental](departamentul-guvernamental.md)
+* [Poliția Federală](politia-federala.md)
+* [Page 1](page-1.md)
