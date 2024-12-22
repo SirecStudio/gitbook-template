@@ -3,7 +3,7 @@
 ## Constitutia West Frontier
 
 * [Cod Penal](README.md)
-  * [🔴 Art. 01 Omucidere](constitutia-west-frontier/cod-penal/art.-01-omucidere.md)
+  * [🔴 Art. 01 Omucidere (CK)](constitutia-west-frontier/cod-penal/art.-01-omucidere-ck.md)
   * [🔴 Art. 02 Tentativa de omor](constitutia-west-frontier/cod-penal/art.-02-tentativa-de-omor.md)
   * [🔴 Art. 03 Furtul de vite](constitutia-west-frontier/cod-penal/art.-03-furtul-de-vite.md)
   * [🔴 Art. 04 Jaf Armat](constitutia-west-frontier/cod-penal/art.-04-jaf-armat.md)

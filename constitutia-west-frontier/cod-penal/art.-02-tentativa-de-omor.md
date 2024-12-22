@@ -22,6 +22,10 @@ description: Art. 02 Tentativa de omor
 
 > **Legitima apărare** – <mark style="color:green;">**Dacă cineva rănește un atacator pentru a-și salva propria viață sau a-și proteja familia.**</mark>
 
+> **Apărarea casei sau fermei** – <mark style="color:green;">**Dacă un străin pătrunde neinvitat pe proprietatea cuiva, iar proprietarul este obligat să folosească forța letală pentru a-și proteja familia sau bunurile.**</mark>
+
+> **Prinderea unui infractor periculos** – <mark style="color:green;">**Dacă șeriful sau orice om al legii împușcă un fugar periculos, refuzând să se predea.**</mark>
+
 * **INFO**
 
 > **Nu este nevoie ca cineva să moară pentru ca legea să acționeze. Oricine încearcă să rănească sau să ucidă va simți greutatea justiției.**
@@ -39,4 +43,3 @@ description: Art. 02 Tentativa de omor
 {% hint style="info" %}
 **CAUTIUNE:** 1500$
 {% endhint %}
-
