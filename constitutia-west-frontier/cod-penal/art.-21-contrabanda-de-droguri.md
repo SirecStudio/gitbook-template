@@ -31,7 +31,7 @@ description: Art. 21 Contrabanda de Droguri
 ***
 
 {% hint style="info" %}
-**CUSTODIE:** 60 - 120 Luni (Minute)
+**SENTINTA:** 60 - 120 Luni (Minute)
 {% endhint %}
 
 {% hint style="info" %}
