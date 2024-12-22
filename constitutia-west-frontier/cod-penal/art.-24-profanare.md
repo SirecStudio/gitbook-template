@@ -2,7 +2,7 @@
 description: Art. 24 Profanare
 ---
 
-# 🔴 Art. 24 Profanare
+# 🟢 Art. 24 Profanare
 
 **`Profanarea reprezintă distrugerea, vandalizarea sau furtul din morminte, biserici, locuri de cult sau monumente publice. Această infracțiune este considerată o lipsă de respect față de comunitate și față de cei decedați, iar legea o pedepsește cu severitate.`**
 
@@ -23,11 +23,7 @@ description: Art. 24 Profanare
 ***
 
 {% hint style="info" %}
-**SENTINTA:** 30 - 50 Luni (Minute)
-{% endhint %}
-
-{% hint style="info" %}
-**AMENDA:** 25$ - 50$
+**AMENDA:** 50- 100$
 {% endhint %}
 
 {% hint style="info" %}
