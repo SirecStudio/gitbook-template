@@ -27,6 +27,7 @@
   * [🔴 Art. 22 Trecerea Ilegală a Vămii](constitutia-west-frontier/cod-penal/art.-22-trecerea-ilegala-a-vamii.md)
   * [🔴 Art. 23 Grup Infractional](constitutia-west-frontier/cod-penal/art.-23-grup-infractional.md)
   * [🔴 Art. 24 Profanare](constitutia-west-frontier/cod-penal/art.-24-profanare.md)
+  * [🔴 Art. 25 Contaminarea Injectabila](constitutia-west-frontier/cod-penal/art.-25-contaminarea-injectabila.md)
 * [Legea](constitutia-west-frontier/legea/README.md)
   * [🟢 Leg. 01 Apărarea Proprietății](constitutia-west-frontier/legea/leg.-01-apararea-proprietatii.md)
   * [🟢 Leg. 02 Gratierea](constitutia-west-frontier/legea/leg.-02-gratierea.md)
