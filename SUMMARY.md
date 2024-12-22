@@ -24,6 +24,7 @@
   * [🔴 Art. 19 Contrabanda de Tigari](constitutia-west-frontier/cod-penal/art.-19-contrabanda-de-tigari.md)
   * [🔴 Art. 20 Contrabanda de Alcool](constitutia-west-frontier/cod-penal/art.-20-contrabanda-de-alcool.md)
   * [🔴 Art. 22 Trecerea Ilegală a Vămii](constitutia-west-frontier/cod-penal/art.-22-trecerea-ilegala-a-vamii.md)
+  * [🔴 Art. 23 Grup Infractional](constitutia-west-frontier/cod-penal/art.-23-grup-infractional.md)
 * [Legea](constitutia-west-frontier/legea/README.md)
   * [🟢 Leg. 01 Apărarea Proprietății](constitutia-west-frontier/legea/leg.-01-apararea-proprietatii.md)
   * [🟢 Leg. 02 Gratierea](constitutia-west-frontier/legea/leg.-02-gratierea.md)
