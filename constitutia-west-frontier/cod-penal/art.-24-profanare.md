@@ -23,9 +23,9 @@ description: Art. 24 Profanare
 ***
 
 {% hint style="info" %}
-**AMENDA:** 50- 100$
+**AMENDA:** 50$- 100$
 {% endhint %}
 
 {% hint style="info" %}
-**CONFISCAREA BUNURILOR FURATE**
+**CONFISCAREA BUNURILOR FURATE SI USTENSILELOR FOLOSITE PENTRU PROFANARE**
 {% endhint %}
