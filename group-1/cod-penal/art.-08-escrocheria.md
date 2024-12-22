@@ -1,8 +1,8 @@
 ---
-description: Art. 01 OMUCIDERE
+description: Art. 08 Escrocheria
 ---
 
-# 🔴 Art. 08 ESCROCHERIA
+# 🔴 Art. 08 Escrocheria
 
 **`Escrocheria este fapta prin care o persoană înșală pe altcineva pentru a obține bani, bunuri sau alte beneficii. Escrocii folosesc minciuni, false promisiuni sau trucuri pentru a păcăli victimele, adesea profitând de buna-credință a oamenilor simpli.`**
 

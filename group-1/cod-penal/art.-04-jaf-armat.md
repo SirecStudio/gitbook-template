@@ -1,8 +1,8 @@
 ---
-description: Art. 04 JAF ARMAT
+description: Art. 04 Jaf Armat
 ---
 
-# 🔴 Art. 04 JAF ARMAT
+# 🔴 Art. 04 Jaf Armat
 
 **`Jaful armat este fapta prin care o persoană, folosind o armă (revolver, pușcă, cuțit), amenință și sustrage bunuri, bani sau alte valori de la o altă persoană, o bancă, o diligență sau un tren. În Vestul Sălbatic, jafurile sunt considerate crime de maximă gravitate, fiind pedepsite penal.`**
 

@@ -1,8 +1,8 @@
 ---
-description: Art. 02 TENTATIVA DE OMOR
+description: Art. 02 Tentativa de omor
 ---
 
-# 🔴 Art. 02 TENTATIVA DE OMOR
+# 🔴 Art. 02 Tentativa de omor
 
 **`Tentativa de omor reprezintă orice încercare de a lua viața unei persoane, dar fără ca această încercare să ducă la moartea victimei. Deși fapta nu s-a finalizat, intenția de a ucide este considerată gravă și pedepsită pe măsură.`**
 

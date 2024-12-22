@@ -1,8 +1,8 @@
 ---
-description: Art. 01 OMUCIDERE
+description: Art. 07 Contrafacerea
 ---
 
-# 🔴 Art. 07 CONTRAFACEREA
+# 🔴 Art. 07 Contrafacerea
 
 **`Contrafacerea reprezintă fabricarea sau folosirea de bani falși, documente măsluite, certificate de proprietate false sau orice alt act menit să inducă în eroare autoritățile sau cetățenii pentru câștig personal. Aceasta este o crimă gravă care subminează încrederea în economie și justiție.`**
 

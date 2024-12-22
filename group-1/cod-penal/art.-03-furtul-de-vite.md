@@ -1,8 +1,8 @@
 ---
-description: Art. 03 FURTUL DE VITE
+description: Art. 03 Furtul de vite
 ---
 
-# 🔴 Art. 03 FURTUL DE VITE
+# 🔴 Art. 03 Furtul de vite
 
 **`Furtul de vite reprezintă actul prin care o persoană ia, fără permisiune, vite, cai sau alte animale domestice care aparțin altcuiva. În Vestul Sălbatic, vitele și caii sunt esențiale pentru supraviețuirea fermierilor și rancherilor, iar furtul acestora este considerat o crimă extrem de gravă.`**
 

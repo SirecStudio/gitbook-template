@@ -1,8 +1,8 @@
 ---
-description: Art. 06 TULBURAREA LINISTII PUBLICE
+description: Art. 06 Tulburarea linistii publice
 ---
 
-# 🟢 Art. 06 TULBURAREA LINISTII PUBLICE
+# 🟢 Art. 06 Tulburarea linistii publice
 
 **`Tulburarea ordinii publice este orice comportament care provoacă scandal, neliniște sau amenință siguranța și liniștea cetățenilor. Orașele Vestului Sălbatic sunt locuri în care oamenii trăiesc și muncesc în pace, iar cei care deranjează această ordine vor fi pedepsiți.`**
 

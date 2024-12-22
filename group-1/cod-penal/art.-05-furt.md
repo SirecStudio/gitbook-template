@@ -1,8 +1,8 @@
 ---
-description: Art. 05 FURT
+description: Art. 05 Furt
 ---
 
-# 🔴 Art. 05 FURT
+# 🔴 Art. 05 Furt
 
 **`Furtul simplu reprezintă sustragerea de bunuri sau bani de valoare redusă, fără utilizarea unei arme sau fără a recurge la violență. Deși nu este considerat o crimă capitală, furtul simplu afectează încrederea și ordinea în comunitate, fiind pedepsit aspru pentru a descuraja repetarea faptei.`**
 
