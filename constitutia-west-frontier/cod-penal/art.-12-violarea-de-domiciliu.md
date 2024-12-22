@@ -2,7 +2,7 @@
 description: Art. 12 Violarea de Domiciliu
 ---
 
-# 🔴 Art. 12 Violarea de Domiciliu
+# 🟢 Art. 12 Violarea de Domiciliu
 
 **`Violarea de domiciliu este pătrunderea neautorizată pe proprietatea privată a unui cetățean, fie că este vorba de casă, fermă, hambar sau teren. Fiecare om are dreptul la siguranță în propria locuință, iar cei care încalcă acest drept vor fi pedepsiți conform legii.`**
 

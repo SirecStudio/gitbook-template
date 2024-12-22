@@ -35,7 +35,7 @@ description: Art. 11 Rapire
 ***
 
 {% hint style="info" %}
-**CUSTODIE:**  120 - 240 Luni (Minute)
+**SENTINTA:**  120 - 240 Luni (Minute)
 {% endhint %}
 
 {% hint style="info" %}

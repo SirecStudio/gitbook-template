@@ -2,7 +2,7 @@
 description: Art. 10 Amenințările
 ---
 
-# 🔴 Art. 10 Amenințările
+# 🟢 Art. 10 Amenințările
 
 **`Amenințarea reprezintă folosirea cuvintelor, gesturilor sau acțiunilor pentru a intimida sau a pune pe cineva în frică de moarte, vătămare sau distrugerea bunurilor. Deși nu implică violență fizică imediată, amenințarea este considerată o crimă deoarece poate duce la conflicte, încăierări sau chiar omucideri.`**
 
