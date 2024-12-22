@@ -1,14 +1,14 @@
 ---
-description: Art. 18 Contrabanda de Arme Letale
+description: Art. 18 Contrabanda de Arme
 ---
 
-# 🔴 Art. 18 Contrabanda de Arme Letale
+# 🔴 Art. 18 Contrabanda de Arme
 
-**`Contrabanda de arme letale reprezintă transportul, vânzarea sau deținerea ilegală de arme de foc, explozibili sau muniții, fără permisiunea autorităților locale. Aceasta este o infracțiune gravă deoarece aduce pericol asupra comunității și alimentează bandele și criminalii care amenință ordinea publică.`**
+**`Contrabanda de arme reprezintă transportul, vânzarea sau deținerea ilegală de arme de foc sau muniții, fără permisiunea autorităților locale. Aceasta este o infracțiune gravă deoarece aduce pericol asupra comunității și alimentează bandele și criminalii care amenință ordinea publică.`**
 
 * **EXEMPLE**
 
-> <mark style="color:red;">**Comerțul cu revolvere, puști sau explozibili fără licenta de Armurier.**</mark>
+> <mark style="color:red;">**Comerțul cu revolvere, puști fără licenta de Armurier.**</mark>
 
 > <mark style="color:red;">**Încercarea de a introduce arme în tara fără a le declara la intrare.**</mark>
 
@@ -35,16 +35,17 @@ description: Art. 18 Contrabanda de Arme Letale
 ***
 
 {% hint style="info" %}
-**SENTINTA:** 50 - 100Luni (Minute)
+**SENTINTA:** 60 - 120 Luni (Minute)
 {% endhint %}
 
 {% hint style="info" %}
-**AMENDA:** 500$ - 800$
+**AMENDA:** 150$ - 300$
 {% endhint %}
 
 {% hint style="info" %}
 **CAUTIUNE:** 2500$
 {% endhint %}
 
-
-
+{% hint style="info" %}
+**CONFISCAREA ARMELOR FARA DREPT DE RECUPERARE**
+{% endhint %}

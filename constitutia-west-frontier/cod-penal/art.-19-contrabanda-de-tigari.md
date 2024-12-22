@@ -1,8 +1,8 @@
 ---
-description: Art. 19 Traficul Ilegal de Țigări și Trabucuri
+description: Art. 19 Contrabanda de Tigari
 ---
 
-# 🔴 Art. 19 Traficul Ilegal de Țigări și Trabucuri
+# 🔴 Art. 19 Contrabanda de Tigari
 
 **`Traficul ilegal de țigări și trabucuri reprezintă vânzarea, transportul sau producerea de produse din tutun fără autorizație sau fără plata taxelor impuse de oraș sau guvern. Această activitate subminează economia locală, afectează comercianții cinstiți și privează orașul de taxe esențiale pentru întreținerea ordinii publice.`**
 
@@ -40,4 +40,8 @@ description: Art. 19 Traficul Ilegal de Țigări și Trabucuri
 
 {% hint style="info" %}
 **AMENDA:** 20$ - 60$
+{% endhint %}
+
+{% hint style="info" %}
+**CONFISCAREA TIGARILOR SAU DISTRUGEREA LOR**
 {% endhint %}

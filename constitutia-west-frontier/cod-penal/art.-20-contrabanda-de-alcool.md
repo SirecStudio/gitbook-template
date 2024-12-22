@@ -1,8 +1,8 @@
 ---
-description: Art. 20 Deținerea Ilegală de Băuturi Alcoolice
+description: Art. 20 Contrabanda de Alcool
 ---
 
-# 🔴 Art. 20 Deținerea Ilegală de Băuturi Alcoolice
+# 🔴 Art. 20 Contrabanda de Alcool
 
 **`Producerea, vânzarea sau deținerea de băuturi alcoolice fără licență este considerată o încălcare a legii. Băuturile de contrabandă sau distilate în secret pot afecta sănătatea cetățenilor și subminează afacerile legale ale saloanelor și negustorilor autorizați.`**
 
@@ -20,7 +20,7 @@ description: Art. 20 Deținerea Ilegală de Băuturi Alcoolice
 
 * **EXCEPTII**
 
-> **Producția pentru uz personal** – <mark style="color:green;">**Fiecare cetățean are voie să producă până la 5 sticle de alcool pentru consum propriu, dar fără drept de vânzare.**</mark>
+> **Producția pentru uz personal** – <mark style="color:green;">**Fiecare cetățean are voie să detina până la 5 sticle de alcool pentru consum propriu, dar fără drept de vânzare.**</mark>
 
 > **Saloanele și cârciumile licențiate** <mark style="color:green;">**pot vinde băuturi, dar doar în cantitățile specificate de licență.**</mark>
 
@@ -35,9 +35,14 @@ description: Art. 20 Deținerea Ilegală de Băuturi Alcoolice
 ***
 
 {% hint style="info" %}
-**CUSTODIE:** 40 - 60Luni (Minute)
+**CUSTODIE:** 40 - 60 Luni (Minute)
 {% endhint %}
 
 {% hint style="info" %}
 **AMENDA:** 80$ - 160$
 {% endhint %}
+
+{% hint style="info" %}
+**CONFISCAREA PRODUSELOR SAU DISTRUGEREA LOR**
+{% endhint %}
+

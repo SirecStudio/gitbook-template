@@ -23,14 +23,18 @@ description: Art. 04 Jaf Armat
 ***
 
 {% hint style="info" %}
-**SENTINTA:**  300- 400 Luni (Minute)
+**SENTINTA:**  120- 180 Luni (Minute)
 {% endhint %}
 
 {% hint style="info" %}
-**AMENDA:** 150$ - 250$
+**AMENDA:** 150$ - 300$
 {% endhint %}
 
 {% hint style="info" %}
 **CAUTIUNE:** 2250$
+{% endhint %}
+
+{% hint style="info" %}
+**CONFISCAREA PRAZII**
 {% endhint %}
 

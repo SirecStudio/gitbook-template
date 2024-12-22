@@ -29,7 +29,7 @@ description: Art. 02 Tentativa de omor
 ***
 
 {% hint style="info" %}
-**SENTINTA:**  100- 150Luni (Minute)
+**SENTINTA:**  60 - 120 Luni (Minute)
 {% endhint %}
 
 {% hint style="info" %}

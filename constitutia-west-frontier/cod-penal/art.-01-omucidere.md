@@ -29,10 +29,10 @@ description: Art. 01 Omucidere
 ***
 
 {% hint style="info" %}
-**SENTINTA:**  600 - 1200 Luni (Minute)
+**SENTINTA:**  180 - 300 Luni (Minute)
 {% endhint %}
 
 {% hint style="info" %}
-**AMENDA:** 5000$
+**AMENDA:** 2500$
 {% endhint %}
 
