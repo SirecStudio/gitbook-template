@@ -1,8 +1,8 @@
 ---
-description: Art. 10 Apărarea Proprietății
+description: Leg. 01 Apărarea Proprietății
 ---
 
-# 🟢 Art. 10 Apărarea Proprietății
+# 🟢 Leg. 01 Apărarea Proprietății
 
 **`Fiecare cetățean are dreptul să își apere casa, ferma, animalele și bunurile împotriva oricărei amenințări. Legea permite folosirea forței, inclusiv a armelor, pentru a proteja proprietatea privată atunci când aceasta este atacată sau furată.`**
 
