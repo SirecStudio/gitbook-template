@@ -15,3 +15,4 @@
   * [🔴 Copy of Art. 09 Protecția Diligențelor și Trenurilor](constitutia-west-frontier/cod-penal/copy-of-art.-09-protectia-diligentelor-si-trenurilor.md)
 * [Legea](constitutia-west-frontier/legea/README.md)
   * [🟢 Leg. 01 Apărarea Proprietății](constitutia-west-frontier/legea/leg.-01-apararea-proprietatii.md)
+  * [🟢 Leg. 02 Gratierea](constitutia-west-frontier/legea/leg.-02-gratierea.md)

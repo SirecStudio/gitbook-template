@@ -22,23 +22,8 @@ description: Leg. 01 Apărarea Proprietății
 
 > **Trecerea pentru a cere ajutor** – <mark style="color:green;">**Dacă o persoană intră pe teren privat în căutare de ajutor (ex: accident, furtuni), proprietarul nu are voie să folosească forța letală.**</mark>
 
-* **INFO**
-
-> **Un om cinstit își apără casa și familia cu orice preț.**
-
 ***
 
 {% hint style="info" %}
-**SENTINTA:**  0 - 0 Luni (Minute)
+**Un om cinstit își apără casa și familia cu orice preț.**
 {% endhint %}
-
-{% hint style="info" %}
-**AMENDA:** 0$ - 0$
-{% endhint %}
-
-{% hint style="info" %}
-**CAUTIUNE:** 0$
-{% endhint %}
-
-
-
