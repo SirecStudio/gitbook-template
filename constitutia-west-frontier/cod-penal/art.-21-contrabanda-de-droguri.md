@@ -12,11 +12,17 @@ description: Art. 21 Contrabanda de Droguri
 
 > <mark style="color:red;">**Transportarea drogurilor fără prezenta unui Serif.**</mark>
 
-> <mark style="color:red;">**Găsirea unor cantități mari de droguri în hambare, grajduri sau ascunse în proprietati private.**</mark>
+> <mark style="color:red;">**Găsirea unor cantități mari de droguri în hambare, grajduri sau ascunse în proprietati private 5+.**</mark>
 
 > <mark style="color:red;">**Introducerea pe ascuns a drogurilor din alte teritorii pentru vânzare în tara.**</mark>
 
 > <mark style="color:red;">**Oferirea de stupefiante către cetateni pentru profit.**</mark>
+
+
+
+* **EXCEPTII**
+
+> <mark style="color:green;">**Persoanele care au o cantitate pana in 5, vor fi avertizati verbal si aplicata doar amenda.**</mark>
 
 * **INFO**
 
