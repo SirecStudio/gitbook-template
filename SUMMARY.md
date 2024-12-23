@@ -32,6 +32,8 @@
   * [🔴 Art. 27 Obstrucționarea unui Om al Legii](constitutia-west-frontier/cod-penal/art.-27-obstructionarea-unui-om-al-legii.md)
   * [🟢 Art. 28 Ascunderea Identitatii](constitutia-west-frontier/cod-penal/art.-28-ascunderea-identitatii.md)
   * [🟢 Art. 29 Acuzatii False](constitutia-west-frontier/cod-penal/art.-29-acuzatii-false.md)
+  * [🟢 Art. 30 Ultraj](constitutia-west-frontier/cod-penal/art.-30-ultraj.md)
+  * [🟢 Art. 31 Divulgarea Informatiilor Secrete](constitutia-west-frontier/cod-penal/art.-31-divulgarea-informatiilor-secrete.md)
 * [Legea](constitutia-west-frontier/legea/README.md)
   * [🟢 Leg. 01 Apărarea Proprietății](constitutia-west-frontier/legea/leg.-01-apararea-proprietatii.md)
   * [🟢 Leg. 02 Gratierea](constitutia-west-frontier/legea/leg.-02-gratierea.md)
