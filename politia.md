@@ -4,9 +4,7 @@ icon: user-police-tie
 
 # Poliția
 
-**`Biroul Mareșalului reprezintă autoritatea supremă în aplicarea legii la nivel local, fiind responsabil pentru menținerea ordinii în întreg orașul și în zonele învecinate. Mareșalul conduce șerifii și ofițerii de patrulare și se asigură că toate infracțiunile sunt pedepsite conform legii orașului.`**
-
-**`În fiecare oraș, Mareșalul este figura centrală a justiției, având sub comanda sa șerifi și ofițeri care veghează asupra liniștii publice și aplică pedepse infractorilor.`**
+**`Biroul Mareșalului reprezintă autoritatea supremă în aplicarea legii la nivel local, fiind responsabil pentru menținerea ordinii în întreg orașul și în zonele învecinate. Mareșalul conduce șerifii și ofițerii de patrulare și se asigură că toate infracțiunile sunt pedepsite conform legii orașului.În fiecare oraș, Mareșalul este figura centrală a justiției, având sub comanda sa șerifi și ofițeri care veghează asupra liniștii publice și aplică pedepse infractorilor.`**
 
 
 
