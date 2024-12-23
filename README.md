@@ -1,42 +1,39 @@
 ---
-icon: user-police-tie
+icon: user-tie
 ---
 
-# Poliția
+# Guvernatorul
 
-**`Biroul Mareșalului reprezintă autoritatea supremă în aplicarea legii la nivel local, fiind responsabil pentru menținerea ordinii în întreg orașul și în zonele învecinate. Mareșalul conduce șerifii și ofițerii de patrulare și se asigură că toate infracțiunile sunt pedepsite conform legii orașului.În fiecare oraș, Mareșalul este figura centrală a justiției, având sub comanda sa șerifi și ofițeri care veghează asupra liniștii publice și aplică pedepse infractorilor.`**
+**`Guvernatorul este cea mai înaltă autoritate civilă dintr-un stat sau teritoriu, reprezentând vocea guvernului federal la nivel local. Guvernatorul are un rol complex, fiind atât administrator, cât și lider politic și militar în anumite circumstanțe. Acesta are responsabilitatea de a asigura aplicarea legii, dezvoltarea infrastructurii și menținerea ordinii publice.`**
 
 
 
-* **Patrulare zilnică în oraș și în împrejurimi pentru prevenirea furturilor, altercațiilor și a altor infracțiuni minore.**
-* **Supravegherea târgurilor, festivalurilor și adunărilor publice pentru a preveni incidente.**
-* **Intervenția rapidă în caz de conflicte în saloon-uri, piețe sau în zone publice.**
-* **Executarea mandatelor de arestare emise de instanțele locale sau de mareșal.**
-* **Prinderea hoților, bandiților și altor infractori prin patrulare activă sau prin formarea de comitate de urmărire (**_**posse**_**).**
-* **Gestionarea prizonierilor – păstrarea acestora în arest până la proces sau eliberare.**
+* **Guvernatorul se asigură că toate legile statale sunt respectate și aplicate de autoritățile locale (șerifi, marshali, judecători).**
+* **Poate emite decrete care au putere de lege la nivel de stat.**
+* **Guvernatorul are autoritatea de a numi șerifi, judecători și primari în orașele fără conducere stabilă.**
+* **Are dreptul de a destitui oficiali corupți sau incompetenți.**
+* **Poate grația prizonieri sau reduce pedepsele în cazuri speciale, Grațierile sunt rare și se acordă doar dacă există dovezi clare de eroare judiciară sau contribuție semnificativă la binele comunității.**
+* **În caz de revoltă sau atacuri de amploare, guvernatorul are dreptul să mobilizeze garda statală și să instituie stare de urgență.**
+* **Guvernatorul poate negocia tratat de pace, acorduri comerciale și înțelegeri cu triburile indigene sau state vecine.**
+* **Guvernatorul organizează și supraveghează alegerile pentru șerifi și oficiali locali, asigurând corectitudinea procesului.**
 
 
 
 * **FUNCTII**
 
-> **Maresalul:**
+> **Guvernator:**
 >
-> * **Liderul suprem** al autorităților din oraș, responsabil pentru coordonarea tuturor activităților de menținere a ordinii.
-> * Mareșalul gestionează **cazuri grave**, conduce **raiduri împotriva bandiților** și supervizează toți șerifii și adjuncții lor.
-> * Are dreptul să emită **mandate de arestare**, să judece infracțiuni minore și să organizeze **comitate de urmărire (posse).**
+> * Autoritatea supremă a statului sau teritoriului.
+> * Lucrează direct cu guvernul federal și armata în cazuri de necesitate.
 
-> **Seriful:**
+> **Consilierii:**
 >
-> * **Subordonat direct mareșalului,** șeriful se ocupă de ordinea dintr-o zonă specifică sau district al orașului.
-> * Șeriful are **autoritate deplină** în lipsa mareșalului și este cel care organizează patrulele zilnice și conduce ofițerii în misiuni de rutină.
-> * De obicei, un oraș mare poate avea **mai mulți șerifi** desemnați pentru fiecare district sau cartier.
+> * O echipă de consilieri (adesea primari, judecători sau militari retrași) care îl sfătuiesc în deciziile importante.
 
-> **Adjunctul de Șerif:**
+> **Adjunctul Guvernatorului:**
 >
-> * **Ajutoarele directe** ale șerifilor. Ei sunt responsabili pentru patrularea orașului, gestionarea conflictelor minore și efectuarea arestărilor.
-> * Adjuncții sunt adesea cei care intervin primii în conflicte stradale și asigură **escortarea prizonierilor**.
+> * Persoana desemnată să preia funcția guvernatorului în absența acestuia sau în caz de deces.
 
-> **Ofițer de Patrulare:**
+> **Comisari Regionali:**
 >
-> * **Primii în linia de apărare a orașului.** Patrulează zi și noapte pentru a preveni furturile, bătăile și alte infracțiuni minore.
-> * Ofițerii pot aresta infractori minori și îi predau șerifului pentru judecată.
+> * Reprezentanți ai guvernatorului care supraveghează regiuni vaste și raportează direct despre situația din teritoriu.
