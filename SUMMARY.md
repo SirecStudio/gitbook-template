@@ -2,7 +2,11 @@
 
 ## Constitutia West Frontier
 
-* [Cod Penal](README.md)
+* [Departamentul Guvernamental](README.md)
+  * [Guvernatorul](constitutia-west-frontier/departamentul-guvernamental/guvernatorul.md)
+  * [Poliția](constitutia-west-frontier/departamentul-guvernamental/politia.md)
+  * [Poliția Federală](constitutia-west-frontier/departamentul-guvernamental/politia-federala.md)
+* [Cod Penal](<README (1).md>)
   * [🔴 Art. 01 Omucidere (CK)](constitutia-west-frontier/cod-penal/art.-01-omucidere-ck.md)
   * [🔴 Art. 02 Tentativa de omor](constitutia-west-frontier/cod-penal/art.-02-tentativa-de-omor.md)
   * [🔴 Art. 03 Furtul de vite](constitutia-west-frontier/cod-penal/art.-03-furtul-de-vite.md)
@@ -41,10 +45,3 @@
 * [Legea](constitutia-west-frontier/legea/README.md)
   * [🟢 Leg. 01 Apărarea Proprietății](constitutia-west-frontier/legea/leg.-01-apararea-proprietatii.md)
   * [🟢 Leg. 02 Gratierea](constitutia-west-frontier/legea/leg.-02-gratierea.md)
-
-***
-
-* [Departamentul Guvernamental](departamentul-guvernamental.md)
-* [Guvernatorul](guvernatorul.md)
-* [Poliția](politia.md)
-* [Poliția Federală](politia-federala.md)
