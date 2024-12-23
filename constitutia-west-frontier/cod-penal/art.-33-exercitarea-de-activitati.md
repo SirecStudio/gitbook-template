@@ -12,8 +12,6 @@ description: Art. 33 Exercitarea de Activități
 
 > <mark style="color:red;">**Tăiere ilegală de copaci pe taramul tari fara licenta.**</mark>
 
-> <mark style="color:red;">**Exploatarea minereurilor rare (aur, argint) fără permisiune.**</mark>
-
 > <mark style="color:red;">**Antrenarea de cai fără licenta.**</mark>
 
 > <mark style="color:red;">**Vânzarea de piei, lemne sau produse locale în piețe fără taxă de comerț.**</mark>
@@ -33,3 +31,8 @@ description: Art. 33 Exercitarea de Activități
 {% hint style="info" %}
 **AMENDA:** 10 x Pretul licentii
 {% endhint %}
+
+{% hint style="info" %}
+**CONFISCAREA MINEREURILOR/LEMNELOR + UNELTELE**
+{% endhint %}
+

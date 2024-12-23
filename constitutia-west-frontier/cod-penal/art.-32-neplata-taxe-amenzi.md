@@ -10,8 +10,6 @@ description: Art. 32 Neplata Taxe/Amenzi
 
 * **EXEMPLE**
 
-> <mark style="color:red;">**Refuzul de a achita amenda pentru tulburarea liniștii publice.**</mark>
-
 > <mark style="color:red;">**Neplata taxelor comerciale pentru magazine, ferme sau saloon-uri.**</mark>
 
 > <mark style="color:red;">**Evitarea plății taxelor pentru transporturi mari (vite, marfă, diligențe).**</mark>
