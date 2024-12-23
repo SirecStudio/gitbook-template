@@ -2,10 +2,10 @@
 
 ## Constitutia West Frontier
 
-* [Departamentul Guvernamental](README.md)
-* [Poliția](constitutia-west-frontier/politia.md)
+* [Poliția](README.md)
 * [Poliția Federală](constitutia-west-frontier/politia-federala.md)
 * [Guvernatorul](constitutia-west-frontier/guvernatorul.md)
+* [Constitutia West Frontier](constitutia-west-frontier/constitutia-west-frontier.md)
 * [Cod Penal](<README (1).md>)
   * [🔴 Art. 01 Omucidere (CK)](constitutia-west-frontier/cod-penal/art.-01-omucidere-ck.md)
   * [🔴 Art. 02 Tentativa de omor](constitutia-west-frontier/cod-penal/art.-02-tentativa-de-omor.md)
