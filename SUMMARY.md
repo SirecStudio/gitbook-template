@@ -36,6 +36,8 @@
   * [🟢 Art. 31 Divulgarea Informatiilor Secrete](constitutia-west-frontier/cod-penal/art.-31-divulgarea-informatiilor-secrete.md)
   * [🔴 Art. 32 Neplata Taxe/Amenzi](constitutia-west-frontier/cod-penal/art.-32-neplata-taxe-amenzi.md)
   * [🟢 Art. 33 Exercitarea de Activități](constitutia-west-frontier/cod-penal/art.-33-exercitarea-de-activitati.md)
+  * [🟢 Art. 34 Transporturi Publice](constitutia-west-frontier/cod-penal/art.-34-transporturi-publice.md)
+  * [🟢 Art. 35 Reglementarea Comerciale](constitutia-west-frontier/cod-penal/art.-35-reglementarea-comerciale.md)
 * [Legea](constitutia-west-frontier/legea/README.md)
   * [🟢 Leg. 01 Apărarea Proprietății](constitutia-west-frontier/legea/leg.-01-apararea-proprietatii.md)
   * [🟢 Leg. 02 Gratierea](constitutia-west-frontier/legea/leg.-02-gratierea.md)
