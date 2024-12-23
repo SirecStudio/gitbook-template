@@ -1,2 +1,0 @@
-# Departamentul Guvernamental
-
