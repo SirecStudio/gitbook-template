@@ -2,7 +2,7 @@
 description: Art. 30 Ultraj
 ---
 
-# 🟢 Art. 30 Ultraj
+# 🔴 Art. 30 Ultraj
 
 **`Ultrajul reprezintă orice act de violență, amenințare sau insultă gravă îndreptată împotriva unui om al legii (șerif, adjunct, mareșal, ofițer de patrulare), în timpul sau din cauza exercitării funcției acestuia. Aceasta include atacuri fizice, împiedicarea arestării prin violență, amenințări directe sau gesturi obscene față de autorități. Ultrajul este considerat o infracțiune gravă, fiind o amenințare directă la adresa ordinii publice și a siguranței orașului.`**
 
