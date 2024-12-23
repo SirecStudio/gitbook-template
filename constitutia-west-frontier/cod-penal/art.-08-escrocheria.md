@@ -24,9 +24,9 @@ description: Art. 08 Escrocheria
 
 * **EXCEPTII**
 
-> **Dacă escrocul returnează bunurile furate în termen de 24 de ore**, <mark style="color:green;">**pedeapsa poate fi redusă la o amendă de 10 dolari și o lună de muncă în folosul comunității.**</mark>
+> <mark style="color:green;">**Dacă escrocul returnează bunurile furate în termen de 24 de ore, pedeapsa poate fi redusă doar la o amendă .**</mark>
 
-> **Escrocheria comisă fără intenție** <mark style="color:green;">**(ex: vânzarea accidentală a unui cal bolnav) poate fi rezolvată pe cale amiabilă cu despăgubirea completă a victimei.**</mark>
+> <mark style="color:green;">**Escrocheria comisă fără intenție (ex: vânzarea accidentală a unui cal bolnav) poate fi rezolvată pe cale amiabilă cu despăgubirea completă a victimei.**</mark>
 
 * **INFO**
 
