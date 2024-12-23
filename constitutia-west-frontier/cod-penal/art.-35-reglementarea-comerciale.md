@@ -31,5 +31,5 @@ description: Art. 35 Reglementarea Comerciale
 ***
 
 {% hint style="info" %}
-**AMENDA:** 300$
+**AMENDA:** 100$
 {% endhint %}
