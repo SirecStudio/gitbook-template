@@ -33,7 +33,7 @@
   * [🟢 Art. 28 Ascunderea Identitatii](constitutia-west-frontier/cod-penal/art.-28-ascunderea-identitatii.md)
   * [🟢 Art. 29 Acuzatii False](constitutia-west-frontier/cod-penal/art.-29-acuzatii-false.md)
   * [🔴 Art. 30 Ultraj](constitutia-west-frontier/cod-penal/art.-30-ultraj.md)
-  * [🟢 Art. 31 Divulgarea Informatiilor Secrete](constitutia-west-frontier/cod-penal/art.-31-divulgarea-informatiilor-secrete.md)
+  * [🔴 Art. 31 Divulgarea Informatiilor Secrete](constitutia-west-frontier/cod-penal/art.-31-divulgarea-informatiilor-secrete.md)
   * [🔴 Art. 32 Neplata Taxe/Amenzi](constitutia-west-frontier/cod-penal/art.-32-neplata-taxe-amenzi.md)
   * [🟢 Art. 33 Exercitarea de Activități](constitutia-west-frontier/cod-penal/art.-33-exercitarea-de-activitati.md)
   * [🟢 Art. 34 Transporturi Publice](constitutia-west-frontier/cod-penal/art.-34-transporturi-publice.md)

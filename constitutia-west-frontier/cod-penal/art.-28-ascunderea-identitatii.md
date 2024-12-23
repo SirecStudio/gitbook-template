@@ -8,7 +8,7 @@ description: Art. 28 Ascunderea Identitatii
 
 * **EXEMPLE**
 
-> <mark style="color:red;">**Intrarea în oraș cu fața acoperită (bandană, mască de pânză).**</mark>
+> <mark style="color:red;">**Intrarea în oraș cu fața acoperită (bandană, mască, etc etc).**</mark>
 
 > <mark style="color:red;">**Purtarea unei glugi care împiedică recunoașterea facială.**</mark>
 
@@ -20,13 +20,15 @@ description: Art. 28 Ascunderea Identitatii
 
 * **EXCEPTII**
 
-> <mark style="color:green;">**Un călător intră în oraș cu bandana peste față, din cauza vremii dar ulterior o da jos.**</mark>
-
 > <mark style="color:green;">**Măștile sunt permise în timpul festivalurilor organizate de primărie sau biroul șerifului.**</mark>
 
 > <mark style="color:green;">**Prizonierii pot purta glugi pe cap în timpul transportului pentru a preveni recunoașterea lor de către complici.**</mark>
 
-> <mark style="color:green;">**Purtarea bandanelor pentru protecție împotriva intemperiilor este permisă în afara orașului.**</mark>
+> <mark style="color:green;">**Purtarea bandanelor pentru protecție împotriva vremii nefavorabila este permisă în afara orașului.**</mark>
+
+> <mark style="color:green;">**Purtarea mastilor/bandane in zone contaminate.**</mark>
+
+
 
 
 

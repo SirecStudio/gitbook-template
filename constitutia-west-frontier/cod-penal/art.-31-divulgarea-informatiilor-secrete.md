@@ -2,7 +2,7 @@
 description: Art. 31 Divulgarea Informatiilor Secrete
 ---
 
-# 🟢 Art. 31 Divulgarea Informatiilor Secrete
+# 🔴 Art. 31 Divulgarea Informatiilor Secrete
 
 **`Divulgarea informațiilor secrete se referă la revelarea, răspândirea sau vânzarea de informații confidențiale ce privesc activități ale autorităților (șerif, mareșal, primar), planuri de apărare ale orașului, investigații în desfășurare sau identitatea martorilor și informatorilor.Această infracțiune poate pune în pericol viața cetățenilor, a oamenilor legii și siguranța întregii comunități.`**
 
