@@ -4,7 +4,7 @@ description: Art. 23 Grup Infractional
 
 # 🔴 Art. 23 Grup Infractional
 
-**`Formarea, conducerea sau participarea activă într-un Grup/Clan/Banda infracțional organizat reprezintă o amenințare directă la adresa siguranței comunității. Orice grup format cu scopul de a comite jafuri, furturi, atacuri asupra trenurilor, diligențelor sau instituțiilor publice este considerat periculos și va fi tratat cu severitate.`**
+**`Formarea, conducerea sau participarea activă într-un Clan/Banda infracțional organizat reprezintă o amenințare directă la adresa siguranței comunității. Orice grup format cu scopul de a comite jafuri, furturi, atacuri asupra trenurilor, diligențelor sau instituțiilor publice este considerat periculos și va fi tratat cu severitate.`**
 
 * **EXEMPLE**
 
