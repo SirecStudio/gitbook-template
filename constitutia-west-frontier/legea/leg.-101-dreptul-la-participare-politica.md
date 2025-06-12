@@ -1,5 +1,5 @@
 ---
-description: Leg. 02 Gratierea
+description: Leg. 101 Dreptul la Participare Politică
 ---
 
 # 🟢 Leg. 101 Dreptul la Participare Politică
