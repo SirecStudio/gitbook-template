@@ -48,3 +48,4 @@
 * [Legea](constitutia-west-frontier/legea/README.md)
   * [🟢 Leg. 01 Apărarea Proprietății](constitutia-west-frontier/legea/leg.-01-apararea-proprietatii.md)
   * [🟢 Leg. 02 Gratierea](constitutia-west-frontier/legea/leg.-02-gratierea.md)
+  * [🟢 Leg. 03 Mandat de Percheziție](constitutia-west-frontier/legea/leg.-03-mandat-de-perchezitie.md)
