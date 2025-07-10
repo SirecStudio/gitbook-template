@@ -49,5 +49,6 @@
   * [🟢 Leg. 01 Apărarea Proprietății](constitutia-west-frontier/legea/leg.-01-apararea-proprietatii.md)
   * [🟢 Leg. 02 Gratierea](constitutia-west-frontier/legea/leg.-02-gratierea.md)
   * [🟢 Leg. 03 Mandat de Percheziție](constitutia-west-frontier/legea/leg.-03-mandat-de-perchezitie.md)
+  * [🟢 Leg. 04 Drepturile Cetățeanului în Fața Autorității](constitutia-west-frontier/legea/leg.-04-drepturile-cetateanului-in-fata-autoritatii.md)
   * [🟢 Leg. 101 Dreptul la Participare Politică](constitutia-west-frontier/legea/leg.-101-dreptul-la-participare-politica.md)
   * [🟢 Leg. 103 Dreptul la Observare Politică](constitutia-west-frontier/legea/leg.-103-dreptul-la-observare-politica.md)
