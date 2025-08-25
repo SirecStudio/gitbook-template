@@ -14,6 +14,7 @@
   * [🔴 Art. 03 Furtul de vite](constitutia-west-frontier/cod-penal/art.-03-furtul-de-vite.md)
   * [🔴 Art. 04 Jaf Armat](constitutia-west-frontier/cod-penal/art.-04-jaf-armat.md)
   * [🔴 Art. 05 Furt](constitutia-west-frontier/cod-penal/art.-05-furt.md)
+  * [🔴 Art. 36 Deținerea de documente oficiale care nu-ți aparțin](constitutia-west-frontier/cod-penal/art.-36-detinerea-de-documente-oficiale-care-nu-ti-apartin.md)
   * [🟢 Art. 06 Tulburarea linistii publice](constitutia-west-frontier/cod-penal/art.-06-tulburarea-linistii-publice.md)
   * [🔴 Art. 07 Contrafacerea](constitutia-west-frontier/cod-penal/art.-07-contrafacerea.md)
   * [🔴 Art. 08 Escrocheria](constitutia-west-frontier/cod-penal/art.-08-escrocheria.md)
