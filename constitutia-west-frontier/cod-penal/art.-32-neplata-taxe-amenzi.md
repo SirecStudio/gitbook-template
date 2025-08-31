@@ -35,6 +35,14 @@ description: Art. 32 Neplata Taxe/Amenzi
 ***
 
 {% hint style="info" %}
+**NEPLATA IN TERMEN DE 10 ZILE:** Se adauga 100$&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+**ATENTIE:** La un TOTAL de **10.000$** se aplica urmatoarele
+{% endhint %}
+
+{% hint style="info" %}
 **SENTINTA:** 300 - 400 Luni ( Minute )&#x20;
 {% endhint %}
 
@@ -43,5 +51,5 @@ description: Art. 32 Neplata Taxe/Amenzi
 {% endhint %}
 
 {% hint style="info" %}
-**CAUTIUNE:** 4500$
+**CAUTIUNE:** Plata amenzilor + 4500$
 {% endhint %}
