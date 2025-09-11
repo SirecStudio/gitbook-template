@@ -28,12 +28,8 @@ icon: user-tie
 
 > **Consilierii:**
 >
-> * O echipă de consilieri (adesea primari, judecători sau militari retrași) care îl sfătuiesc în deciziile importante.
+> * O echipă de consilieri care îl sfătuiesc în deciziile importante.
 
-> **Adjunctul Guvernatorului:**
+> **Primari Regionali:**
 >
-> * Persoana desemnată să preia funcția guvernatorului în absența acestuia sau în caz de deces.
-
-> **Comisari Regionali:**
->
-> * Reprezentanți ai guvernatorului care supraveghează regiuni vaste și raportează direct despre situația din teritoriu.
+> * Primar al oraselor din subburbia Capitalei ( Sain Denit ) ai guvernatorului care supraveghează regiuni vaste și raportează direct despre situația din teritoriu.
