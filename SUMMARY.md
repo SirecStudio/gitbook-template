@@ -51,6 +51,7 @@
   * [🟢 Leg. 02 Gratierea](constitutia-west-frontier/legea/leg.-02-gratierea.md)
   * [🟢 Leg. 03 Mandat de Percheziție](constitutia-west-frontier/legea/leg.-03-mandat-de-perchezitie.md)
   * [🟢 Leg. 04 Drepturile Cetățeanului în Fața Autorității](constitutia-west-frontier/legea/leg.-04-drepturile-cetateanului-in-fata-autoritatii.md)
-  * [🟢 Leg. 05 Administrarea Fiscală](constitutia-west-frontier/legea/leg.-05-administrarea-fiscala.md)
+  * [🟢 Leg. 05 Administrarea Fiscală Comerciala si Imobiliar](constitutia-west-frontier/legea/leg.-05-administrarea-fiscala-comerciala-si-imobiliar.md)
+  * [🟢 Leg. 6 Abuz Repetat de Neplată – Sechestru și Preluare Imobile](constitutia-west-frontier/legea/leg.-6-abuz-repetat-de-neplata-sechestru-si-preluare-imobile.md)
   * [🟢 Leg. 101 Dreptul la Participare Politică](constitutia-west-frontier/legea/leg.-101-dreptul-la-participare-politica.md)
   * [🟢 Leg. 103 Dreptul la Observare Politică](constitutia-west-frontier/legea/leg.-103-dreptul-la-observare-politica.md)

@@ -1,8 +1,8 @@
 ---
-description: Leg. 05 Administrarea Fiscală
+description: Leg. 05 Administrarea Fiscală Comerciala si Imobiliar
 ---
 
-# 🟢 Leg. 05 Administrarea Fiscală
+# 🟢 Leg. 05 Administrarea Fiscală Comerciala si Imobiliar
 
 `Fiecare cetățean are obligația să-și achite la timp taxele pentru proprietăți și magazine. Legea acordă Primăriilor dreptul de a consulta Registrul Cetățenilor și de a dispune blocarea temporară a contului bancar al restanțierilor până la achitarea integrală a taxelor. Sunt excluse amenzile din dosare penale sau procese-verbale (contravenții) – acestea nu duc la blocarea contului.`
 
