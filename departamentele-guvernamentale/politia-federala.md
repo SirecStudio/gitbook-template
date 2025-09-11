@@ -23,15 +23,9 @@ icon: user-police-tie
 > * Liderul Poliției Federale într-o regiune vastă sau teritoriu.
 > * Are puterea de a institui stare de urgență și de a colabora cu armata, dacă este necesar.
 
-> **Marshal Federal:**
+> **Capitan Federal:**
 >
-> * Ofițeri de teren, responsabili pentru capturarea criminalilor și menținerea ordinii în zone de frontieră.
+> * Capitani de teren, responsabili pentru capturarea criminalilor și menținerea ordinii în zone de frontieră.
 > * Autorizați să coopereze direct cu șerifii locali sau să preia controlul în cazuri federale.
 
-> **Adjunct Federal:**
 >
-> * Asistenții marshalilor federali, care acționează sub comanda acestora în misiuni de arestare sau protecție.
-
-> **Ofițeri de Investigație:**
->
-> * Se ocupă de cazuri complexe, cum ar fi falsificarea de bani, contrabanda de arme și traficul de persoane.
