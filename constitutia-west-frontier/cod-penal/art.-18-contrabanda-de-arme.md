@@ -4,11 +4,11 @@ description: Art. 18 Contrabanda de Arme
 
 # 🔴 Art. 18 Contrabanda de Arme
 
-**`Contrabanda de arme reprezintă transportul, vânzarea sau deținerea ilegală de arme de foc sau muniții, fără permisiunea autorităților locale. Aceasta este o infracțiune gravă deoarece aduce pericol asupra comunității și alimentează bandele și criminalii care amenință ordinea publică.`**
+`Constituie contrabandă de arme introducerea, scoaterea, transportul, transferul, depozitarea în scop de distribuție de arme de foc sau muniții fără licență ori fără declarare către autoritățile locale, cu intenția de a eluda controalele, taxele sau regimul de autorizare.`
+
+
 
 * **EXEMPLE**
-
-> <mark style="color:red;">**Comerțul cu revolvere, puști fără licenta de Armurier.**</mark>
 
 > <mark style="color:red;">**Încercarea de a introduce arme în tara fără a le declara la intrare.**</mark>
 
@@ -16,21 +16,19 @@ description: Art. 18 Contrabanda de Arme
 
 > <mark style="color:red;">**Producerea de arme de foc sau explozibili în ateliere ascunse, fără autorizație.**</mark>
 
-> <mark style="color:red;">**Stocarea de arme letale în afara sectiei, arsenalului orașului sau a locurilor desemnate de șerif.**</mark>
+> <mark style="color:red;">**Stocarea de materiale uzate in productia armamentelor/munitiei.**</mark>
 
 * **EXCEPTII**
 
 > **Negustorii de arme cu licență** <mark style="color:green;">**pot transporta, dar doar cu licenta.**</mark>
 
-> **Transportul de arme pentru armată sau autorități locale** <mark style="color:green;">**nu este considerat contrabandă dacă este însoțit de un document oficial.**</mark>
-
-> **Cetățenii care transportă arme pentru uz personal** <mark style="color:green;">**(un revolver sau o pușcă) nu sunt pedepsiți.**</mark>
+> **Transportul de arme pentru autorități locale** <mark style="color:green;">**nu este considerat contrabandă dacă este însoțit de un document oficial.**</mark>
 
 
 
 * **INFO**
 
-> **Dacă ai nevoie de o armă, cumpără legal și cu aprobare.**
+> **Dacă ai nevoie de o armă, cumpără legal și cu aprobare in limita legii.**
 
 ***
 
