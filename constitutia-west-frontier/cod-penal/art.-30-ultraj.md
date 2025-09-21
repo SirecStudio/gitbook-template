@@ -8,15 +8,15 @@ description: Art. 30 Ultraj
 
 * **EXEMPLE**
 
-> <mark style="color:red;">**Lovirea unui șerif sau adjunct în timpul unei arestări.**</mark>
+> <mark style="color:red;">**Lovirea unui ofiter în timpul unei arestări.**</mark>
 
 > <mark style="color:red;">**Împingerea sau lovirea intenționată a unui ofițer care intervine într-un conflict.**</mark>
 
-> <mark style="color:red;">**Amenințarea unui șerif cu moartea sau cu acte de violență.**</mark>
+> <mark style="color:red;">**Amenințarea unui ofiter sau cu acte de violență.**</mark>
 
 > <mark style="color:red;">**Îndreptarea armei (chiar fără a trage) către un om al legii.**</mark>
 
-> <mark style="color:red;">**Scuiparea, insultele sau gesturile obscene îndreptate către șerif sau mareșal.**</mark>
+> <mark style="color:red;">**Scuiparea, insultele/defăimare sau gesturile obscene îndreptate către șerif sau mareșal.**</mark>
 
 * **EXCEPTII**
 
@@ -31,5 +31,10 @@ description: Art. 30 Ultraj
 ***
 
 {% hint style="info" %}
-**AMENDA:** 50$ - 100$
+**Ultraj verbal:** 50$ - 100$
 {% endhint %}
+
+{% hint style="info" %}
+**Obstrucționare fizică / incitare / repetarea:** 20 - 40 Luni + Amenda (PENAL)
+{% endhint %}
+
