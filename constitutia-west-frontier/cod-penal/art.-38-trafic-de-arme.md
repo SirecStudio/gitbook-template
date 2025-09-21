@@ -1,5 +1,5 @@
 ---
-description: Art. 18 Contrabanda de Arme
+description: Art. 38 Trafic de Arme
 ---
 
 # 🔴 Art. 38 Trafic de Arme
