@@ -1,4 +1,4 @@
-# PRIMAR
+# Primar
 
 **Primarul este liderul civil al orașului: reprezintă comunitatea, conduce administrația locală și, împreună cu Consiliul, stabilește regulile de conviețuire (ordonanțe), bugetul și lucrările publice. Primarul gestionează tot ce ține de viața civică – licențe, taxe, piețe, evenimente, infrastructură – și colaborează cu Șeriful pentru siguranță publică; nu conduce operativ poliția, nu poate interveni în anchete sau custodia deținuților și nu poate ignora ordinele Curții Federale ori pe cele scrise ale Mareșalului privind ordine publică.**
 
@@ -16,6 +16,7 @@
 * **Pune la dispoziție logistică** stației șerifului (spații, fonduri locale aprobare de Consiliu).
 * **Convoacă Consiliul în ședință extraordinară** pentru măsuri rapide (bugete, ordonanțe urgente).
 * **Emite documente oficiale si transfer/vanzare-cumparare** (Acte de cununie, declaratii, etc etc).
+* **Poate ingheta contul bancar cuiva temporar cu motive valide de** (frauda, ilegalitati) pana la clarificare cu **el** sau **autoritatile**.
 * „Ordonanță: interzis portul la vedere în piața centrală” — **DA**, prin Consiliu.
 * „Închidem strada principală duminică pentru parada recoltei” — **DA**, dispoziție administrativă + informare Șerif.
 * „Suspend licența saloon-ului X 7 zile pentru încălcări” — **DA**, conform ordonanței.
