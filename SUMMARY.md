@@ -3,7 +3,8 @@
 ## Departamentele Guvernamentale
 
 * [Guvern](README.md)
-  * [PRIMAR](departamentele-guvernamentale/guvern/primar.md)
+  * [Primar](departamentele-guvernamentale/guvern/primar.md)
+  * [Politician (Deputat / Consilier)](departamentele-guvernamentale/guvern/politician-deputat-consilier.md)
 * [Poliția](departamentele-guvernamentale/politia/README.md)
   * [Maresal](departamentele-guvernamentale/politia/maresal.md)
   * [Serif](departamentele-guvernamentale/politia/serif.md)
