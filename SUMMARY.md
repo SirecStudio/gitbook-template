@@ -3,7 +3,8 @@
 ## Departamentele Guvernamentale
 
 * [Guvernatorul](README.md)
-* [Poliția](<README (1).md>)
+* [Poliția](departamentele-guvernamentale/politia/README.md)
+  * [Serif](departamentele-guvernamentale/politia/serif.md)
 * [Poliția Federală](departamentele-guvernamentale/politia-federala.md)
 
 ## Constitutia West Frontier
