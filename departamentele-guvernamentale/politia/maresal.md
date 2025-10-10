@@ -25,7 +25,7 @@
 
 
 
-### **CE&#x20;**<mark style="color:red;">**NU**</mark>**&#x20;POATE FACE UN SERIF (EXEMPLE)**
+### **CE&#x20;**<mark style="color:red;">**NU**</mark>**&#x20;POATE FACE UN MARESAL (EXEMPLE)**
 
 * **Nu** numește, **nu** demite **șerifi** (funcții alese).
 * **Nu** angajează/dă afară direct ofițeri din stațiile șerifilor (HR-ul local rămâne la șerif); poate doar **suspenda acreditarea** sau **exclude din operațiuni**.
