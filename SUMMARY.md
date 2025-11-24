@@ -51,6 +51,7 @@
   * [🔴 Art. 36 Zona Frontiera](constitutia-west-frontier/cod-penal/art.-36-zona-frontiera.md)
   * [🟢 Art. 37 Deținerea de documente oficiale](constitutia-west-frontier/cod-penal/art.-37-detinerea-de-documente-oficiale.md)
   * [🔴 Art. 38 Trafic de Arme](constitutia-west-frontier/cod-penal/art.-38-trafic-de-arme.md)
+  * [🔴 Art. 39 Uzurpare de Calitate Oficială](constitutia-west-frontier/cod-penal/art.-39-uzurpare-de-calitate-oficiala.md)
   * [🔴 Art. 69 Condamnarea la Moarte pentru Recidivă Penală Extremă](constitutia-west-frontier/cod-penal/art.-69-condamnarea-la-moarte-pentru-recidiva-penala-extrema.md)
 * [Legea](constitutia-west-frontier/legea/README.md)
   * [🟢 Leg. 01 Apărarea Proprietății](constitutia-west-frontier/legea/leg.-01-apararea-proprietatii.md)
