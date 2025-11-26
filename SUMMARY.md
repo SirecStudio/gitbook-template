@@ -1,8 +1,12 @@
 # Table of contents
 
+## REGULAMENTUL WEST FRONTIER
+
+* [ZONA VERDE](README.md)
+
 ## Departamentele Guvernamentale
 
-* [Guvern](README.md)
+* [Guvern](<README (1).md>)
   * [Primar](departamentele-guvernamentale/guvern/primar.md)
   * [Politician (Deputat / Consilier)](departamentele-guvernamentale/guvern/politician-deputat-consilier.md)
 * [Poliția](departamentele-guvernamentale/politia/README.md)

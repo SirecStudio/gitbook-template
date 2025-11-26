@@ -4,8 +4,7 @@ description: Art. 37 Deținerea de documente oficiale care nu-ți aparțin
 
 # 🟢 Art. 37 Deținerea de documente oficiale
 
-**`Deținerea ordonanțelor, legitimațiilor, scrisorilor sigilate ale autorităților, titlurilor de proprietate, licențelor, permiselor ori altor documente oficiale care aparțin altei persoane sau unei instituții publice, fără consimțământ ori temei legal, constituie faptă împotriva ordinii și siguranței comunității.`**\
-
+**`Deținerea ordonanțelor, legitimațiilor, scrisorilor sigilate ale autorităților, titlurilor de proprietate, licențelor, permiselor ori altor documente oficiale care aparțin altei persoane sau unei instituții publice, fără consimțământ ori temei legal, constituie faptă împotriva ordinii și siguranței comunității.`**<br>
 
 * **EXEMPLE**
 
