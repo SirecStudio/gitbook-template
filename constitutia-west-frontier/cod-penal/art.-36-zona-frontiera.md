@@ -12,6 +12,12 @@ description: Art. 36 Zona Frontiera
 
 > <mark style="color:red;">**Scoaterea sau mutarea armelor este strict interzis !**</mark>
 
+> <mark style="color:red;">**Traversarea granitei se face doar cu caruta sau calul personal !**</mark>
+
+> <mark style="color:red;">**Trecerea se face cate o persoana pe rand cu propria caruta sau calul !**</mark>
+
+
+
 * **EXCEPTII**
 
 > <mark style="color:green;">**Armele in caruta , in ghiozdan sau in sacosa calului sunt admise.**</mark>
